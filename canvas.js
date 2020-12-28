@@ -32,6 +32,7 @@ var mouse = {
 
 var maxRadius = 40;
 //var minRadius = 2;
+// you can put whatever color you want in this array
 var colorArray = [
 '#2C3E50',
 '#E74C3C',
